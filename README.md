@@ -13,7 +13,7 @@
 
 # Linux Installation
 ```sh
-wget -qO- https://raw.githubusercontent.com/xiv3r/Burpsuite-Professional/main/install.sh | sudo bash
+wget -qO- https://raw.githubusercontent.com/imsourobh/Burpsuite-Professional/main/install.sh | sudo bash
 ```
 ## Run
 ```sh
