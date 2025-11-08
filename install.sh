@@ -11,7 +11,7 @@ cd Burpsuite-Professional
 
 # Download Burpsuite Professional
 echo "Downloading Burpsuite Professional Latest..."
-version=2025
+version=2024
 url="https://portswigger-cdn.net/burp/releases/download?product=pro&type=Jar"
 axel "$url" -o "burpsuite_pro_v$version.jar"
 
