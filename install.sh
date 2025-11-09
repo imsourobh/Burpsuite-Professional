@@ -2,8 +2,8 @@
 
 # Installing Dependencies
 echo "Installing Dependencies..."
-sudo apt update
-sudo apt install git axel openjdk-17-jre
+#sudo apt update
+#sudo apt install git axel openjdk-17-jre
 
 # Cloning
 git clone https://github.com/xiv3r/Burpsuite-Professional.git 
